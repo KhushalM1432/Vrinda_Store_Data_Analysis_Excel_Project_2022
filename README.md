@@ -1,6 +1,6 @@
 # Vrinda_Store_Data_Analysis_Excel_Project_2022-
 
-Vrinda Store Data Analysis Report - 2022
+Vrinda Store Data Analysis Report - 2022  
   Executive Summary:
 - Women are more likely to buy compared to men, accounting for approximately 65% of purchases.
 - Maharashtra, Karnataka, and Uttar Pradesh are the top three states contributing to around 35% of total sales.
