@@ -1,4 +1,4 @@
-# Vrinda_Store_Data_Analysis_Excel_Project_2022-
+# Data_Science_Project 
 
 Vrinda Store Data Analysis Report - 2022  
   I) Executive Summary:
